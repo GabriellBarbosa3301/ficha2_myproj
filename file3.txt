@@ -35,12 +35,6 @@ Este é o exemple de um ficheiro de texto file3
 .
 .
 .
-<<<<<<< HEAD
-Comida Bolos djsakfhjdsjf
-=======
-<<<<<<< 
 adsfdhfdsjait4ueifjkdsjfkejwfkds
-=======
+
 Comida Bolos djsakfhjdsjf
->>>>>>> NovaFeature
->>>>>>> main
