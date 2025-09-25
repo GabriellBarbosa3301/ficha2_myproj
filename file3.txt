@@ -35,4 +35,8 @@ Este é o exemple de um ficheiro de texto file3
 .
 .
 .
+<<<<<<< 
 adsfdhfdsjait4ueifjkdsjfkejwfkds
+=======
+Comida Bolos djsakfhjdsjf
+>>>>>>> NovaFeature
